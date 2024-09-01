@@ -1,0 +1,17 @@
+Case,QR,Brightness(Lux),Distance (cm),Features
+0,small,200,50,crowded
+1,small,200,100,crowded
+2,small,200,150,crowded
+3,small,200,200,crowded
+4,small,200,250,crowded
+5,small,200,300,crowded
+6,small,200,350,crowded
+7,small,200,400,crowded
+8,small,7,50,crowded
+9,small,7,100,crowded
+10,small,7,150,crowded
+11,small,7,200,crowded
+12,small,7,250,crowded
+13,small,7,300,crowded
+14,small,7,350,crowded
+15,small,7,400,crowded

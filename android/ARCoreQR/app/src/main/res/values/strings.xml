@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArcoreMeasurement</string>
+    <string name="to_measurement_button">To Measurement</string>
+    <string-array name="arcore_measurement_buttons">
+        <item>@string/to_measurement_button</item>
+    </string-array>
+    <string name="distance_from_camera">Distance from camera</string>
+    <string name="distance_of_2_points">Distance of 2 points</string>
+    <string name="distance_of_multiple_points">Distance of multiple points</string>
+    <string name="distance_from_ground">Distance from ground</string>
+    <string name="distance_from_qr">Distance from qr</string>
+    <string name="clear">Clear</string>
+    <string name="initCM">0.0</string>
+    <string-array name="distance_mode">
+        <item>@string/distance_from_camera</item>
+        <item>@string/distance_of_2_points</item>
+        <item>@string/distance_of_multiple_points</item>
+        <item>@string/distance_from_ground</item>
+        <item>@string/distance_from_qr</item>
+    </string-array>
+</resources>

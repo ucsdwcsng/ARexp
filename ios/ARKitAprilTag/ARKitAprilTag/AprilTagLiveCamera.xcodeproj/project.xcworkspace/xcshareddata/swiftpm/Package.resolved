@@ -1,0 +1,15 @@
+{
+  "originHash" : "e9703652ac25941e2d1fbd898812381c5b9120de359a53c7c12cb72bd15437de",
+  "pins" : [
+    {
+      "identity" : "kronos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MobileNativeFOundation/Kronos.git",
+      "state" : {
+        "revision" : "f331821314f9b35867a18c5c8fc2f918536d79ac",
+        "version" : "4.3.1"
+      }
+    }
+  ],
+  "version" : 3
+}

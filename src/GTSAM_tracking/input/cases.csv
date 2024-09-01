@@ -1,0 +1,5 @@
+Case,Move,Features,Sensors,Brightness
+0,dynamic,crowded,IMU + Camera + LiDAR,200
+1,dynamic,crowded,IMU + Camera + LiDAR,7
+2,dynamic,crowded,IMU + Camera + LiDAR,0
+3,dynamic,crowded,IMU + Camera + LiDAR,blink
